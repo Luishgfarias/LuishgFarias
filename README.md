@@ -8,6 +8,23 @@
 
 ---
 
+### ✨ Sobre mim  
+Tenho 21 anos e desde cedo sou apaixonado por tecnologia. Minha curiosidade me levou à programação, onde descobri que adoro transformar ideias em código. Gosto de aprender coisas novas todos os dias e encarar desafios como oportunidades de crescimento. Para mim, programar é mais do que escrever linhas de código: é criar soluções, experimentar e evoluir sempre.
+
+---
+
+### 🌎 Um Pouco Mais Sobre Mim  
+- 🌱 Atualmente estou aprendendo sobre AWS  
+- ⚡ Curiosidade: apaixonado por vôlei  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
+</p>
+
+---
+
 <div align="center">
   <a href="https://github.com/luishgfarias">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luishgfarias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
