@@ -67,8 +67,6 @@ Tenho 21 anos e desde cedo sou apaixonado por tecnologia. Minha curiosidade me l
   </a>
 </div>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFDD,100:8A2BE2&height=100&section=footer"/>
 </p>
