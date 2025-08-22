@@ -15,9 +15,7 @@ Tenho 21 anos e desde cedo sou apaixonado por tecnologia. Minha curiosidade me l
 
 ### 🌎 Um Pouco Mais Sobre Mim  
 - 🌱 Atualmente estou aprendendo sobre AWS  
-- ⚡ Curiosidade: apaixonado por vôlei  
-
----
+- ⚡ Curiosidade: apaixonado por vôlei e pelo jogo do dinossauro haha
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
